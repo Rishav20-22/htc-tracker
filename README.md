@@ -20,6 +20,9 @@ plt.ylabel('X Coordinate (meters)')
 # Configuration file
 
 The goal is to identify devices by serial, in order to keep the same name for the same physical device. for maing it work, you just have to change serials and names in the 'config.json' file. Here is an example of config file :
+SETUP FOR A NEW PC.
+https://github.com/Rishav20-22/htc-tracker.git
+
 
 ```
 {
